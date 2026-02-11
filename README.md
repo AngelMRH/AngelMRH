@@ -10,7 +10,7 @@
 📊 Database Design & Optimization  
 🔐 Biometric Security Systems Developer  
 📱 Android & Flutter Developer  
-🌐 Full Stack with Next.js & MongoDB  
+🌐 Next.js & MongoDB  
 
 I specialize in solving real-world business problems through software, database optimization, and secure system design.
 
