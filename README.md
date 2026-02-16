@@ -1,25 +1,25 @@
-<h1 align="center">Hey 👋 I'm Angel Manuel Ruiz</h1>
+<h1 align="center">Hola 👋 Soy Angel Manuel Ruiz</h1>
 <h3 align="center">
-Software Developer | SQL Server Specialist | ERP Support | Mobile & Web Developer
+Desarrollador de Software | Especialista en SQL Server | Soporte ERP | Desarrollador Mobile & Web
 </h3>
 
 ---
 
-## 🚀 About Me
+## 🚀 Sobre Mí
 
-💻 Systems Engineering Student  
-🗄️ SQL Server & ERP Technical Support  
-📊 Database Design & Optimization  
-🔐 Biometric Security Systems Developer  
-📱 Android & Flutter Developer  
-🌐 Next.js & MongoDB  
+💻 Estudiante de Ingeniería en Sistemas Computacionales  
+🗄️ Especialista en SQL Server y Soporte Técnico ERP  
+📊 Diseño y Optimización de Bases de Datos  
+🔐 Desarrollador de Sistemas de Seguridad Biométrica  
+📱 Desarrollo Android y Flutter  
+🌐 Desarrollo Web con Next.js y MongoDB  
 
-I specialize in solving real-world business problems through software, 
-database optimization, and secure system design.
+Me especializo en resolver problemas reales de negocio mediante software eficiente, 
+optimización de bases de datos y diseño de sistemas seguros.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack Tecnológico
 
 <div align="center">
 
@@ -41,48 +41,48 @@ database optimization, and secure system design.
 
 ---
 
-## 🗄️ Database & ERP Expertise
+## 🗄️ Especialización en Bases de Datos y ERP
 
-- Advanced SQL Queries (CTE, Window Functions, Stored Procedures)
-- Database Performance Analysis
-- ERP Data Debugging & Support
-- Data Integrity Validation
-- Backup & Maintenance Automation
-- Report Generation & Data Auditing
-
----
-
-## 📱 Mobile Projects
-
-- Android App with Gyroscope Music Control  
-- Biometric Attendance App (Fingerprint-based)  
-- Flutter Apps with Local Storage (SharedPreferences)  
-- Emergency Alert System with Contact Sync  
+- Consultas SQL Avanzadas (CTE, Window Functions, Stored Procedures)
+- Análisis y Optimización de Rendimiento
+- Depuración y Soporte de Datos en ERP
+- Validación de Integridad de Información
+- Automatización de Backups y Mantenimiento
+- Generación de Reportes y Auditorías
 
 ---
 
-## 🌐 Web Projects
+## 📱 Proyectos Mobile
 
-- Apartment Booking System (Next.js + MongoDB)  
-- Role-based Authentication  
-- REST APIs & Database Integration  
-- Responsive UI with Tailwind  
+- App Android con Control de Música mediante Giroscopio  
+- Aplicación de Asistencias con Huella Digital  
+- Apps Flutter con almacenamiento local (SharedPreferences)  
+- Sistema de Alertas de Emergencia con sincronización de contactos  
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Proyectos Web
+
+- Sistema de Citas para Departamentos (Next.js + MongoDB)  
+- Autenticación basada en Roles  
+- APIs REST e Integración con Base de Datos  
+- Interfaces Responsivas con Tailwind  
+
+---
+
+## 📊 Estadísticas de GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AngelMRH&show_icons=true&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AngelMRH&show_icons=true&hide_border=true&locale=es" height="160"/>
 
-<img src="https://streak-stats.demolab.com?user=AngelMRH&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelMRH&layout=compact&hide_border=true&locale=es" height="160"/>
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Conecta Conmigo
 
 <div align="center">
 
@@ -99,5 +99,5 @@ database optimization, and secure system design.
 ---
 
 <p align="center">
-⭐ Always building. Always improving. Always learning.
+⭐ Siempre construyendo. Siempre mejorando. Siempre aprendiendo.
 </p>
