@@ -74,11 +74,10 @@ optimización de bases de datos y diseño de sistemas seguros.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AngelMRH&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelMRH&layout=compact&theme=transparent&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com?user=AngelMRH&hide_border=true" height="170"/>
 
 </div>
+
 
 ---
 
