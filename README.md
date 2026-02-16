@@ -3,7 +3,7 @@
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 💻 Systems Engineering Student  
 🗄️ SQL Server & ERP Technical Support  
