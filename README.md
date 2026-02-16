@@ -1,89 +1,45 @@
-<h1 align="center">Hey 👋 I'm Angel Manuel Ruiz</h1>
-<h3 align="center">Software Developer | SQL Server Specialist | ERP Support | Mobile & Web Developer</h3>
+🚀 Sobre mí
 
----
+💻 Estudiante de Ingeniería en Sistemas
+🗄️ Especialista en SQL Server y Soporte Técnico ERP
+📊 Diseño y Optimización de Bases de Datos
+🔐 Desarrollador de Sistemas de Seguridad Biométrica
+📱 Desarrollador Android y Flutter
+🌐 Desarrollador Web con Next.js y MongoDB
 
-# 🚀 About Me
+Me especializo en resolver problemas reales de negocio mediante software, optimización de bases de datos y diseño de sistemas seguros y eficientes.
 
-💻 Systems Engineering Student  
-🗄️ SQL Server & ERP Technical Support  
-📊 Database Design & Optimization  
-🔐 Biometric Security Systems Developer  
-📱 Android & Flutter Developer  
-🌐 Next.js & MongoDB  
+🛠️ Stack Tecnológico
+<div align="center"> <img src="https://skillicons.dev/icons?i=js" height="55"/> <img src="https://skillicons.dev/icons?i=ts" height="55"/> <img src="https://skillicons.dev/icons?i=react" height="55"/> <img src="https://skillicons.dev/icons?i=nextjs" height="55"/> <img src="https://skillicons.dev/icons?i=tailwind" height="55"/> <img src="https://skillicons.dev/icons?i=flutter" height="55"/> <img src="https://skillicons.dev/icons?i=java" height="55"/> <img src="https://skillicons.dev/icons?i=kotlin" height="55"/> <img src="https://skillicons.dev/icons?i=python" height="55"/> <img src="https://skillicons.dev/icons?i=mongodb" height="55"/> <img src="https://skillicons.dev/icons?i=mysql" height="55"/> <img src="https://skillicons.dev/icons?i=git" height="55"/> <img src="https://skillicons.dev/icons?i=github" height="55"/> </div>
+🗄️ Experiencia en Bases de Datos y ERP
 
-I specialize in solving real-world business problems through software, database optimization, and secure system design.
+Consultas SQL Avanzadas (CTE, Funciones Window, Procedimientos Almacenados)
 
----
+Análisis y Optimización de Rendimiento
 
-## 🛠️ Tech Stack
+Depuración y Soporte de Datos en ERP
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="55"/>
-  <img src="https://skillicons.dev/icons?i=ts" height="55"/>
-  <img src="https://skillicons.dev/icons?i=react" height="55"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" height="55"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="55"/>
-  <img src="https://skillicons.dev/icons?i=flutter" height="55"/>
-  <img src="https://skillicons.dev/icons?i=java" height="55"/>
-  <img src="https://skillicons.dev/icons?i=kotlin" height="55"/>
-  <img src="https://skillicons.dev/icons?i=python" height="55"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="55"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="55"/>
-  <img src="https://skillicons.dev/icons?i=git" height="55"/>
-  <img src="https://skillicons.dev/icons?i=github" height="55"/>
-</div>
+Validación de Integridad de Información
 
----
+Automatización de Backups y Mantenimiento
 
-## 🗄️ Database & ERP Expertise
+Generación de Reportes y Auditorías
 
-- Advanced SQL Queries (CTE, Window Functions, Stored Procedures)
-- Database Performance Analysis
-- ERP Data Debugging & Support
-- Data Integrity Validation
-- Backup & Maintenance Automation
-- Report Generation & Data Auditing
+📱 Proyectos Mobile
 
----
+🔹 App Android con Control de Música mediante Giroscopio
+🔹 App de Asistencias con Huella Digital
+🔹 Aplicaciones Flutter con almacenamiento local (SharedPreferences)
+🔹 Sistema de Alertas de Emergencia con sincronización de contactos
 
-## 📱 Mobile Projects
+🌐 Proyectos Web
 
-🔹 Android App with Gyroscope Music Control  
-🔹 Biometric Attendance App (Fingerprint-based)  
-🔹 Flutter Apps with Local Storage (SharedPreferences)  
-🔹 Emergency Alert System with Contact Sync  
+🔹 Sistema de Citas para Departamentos (Next.js + MongoDB)
+🔹 Autenticación basada en Roles
+🔹 APIs REST e Integración con Base de Datos
+🔹 Interfaces Responsivas con Tailwind
 
----
-
-## 🌐 Web Projects
-
-🔹 Apartment Booking System (Next.js + MongoDB)  
-🔹 Role-based Authentication  
-🔹 REST APIs & Database Integration  
-🔹 Responsive UI with Tailwind  
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AngelMRH&theme=tokyonight&hide_border=true" height="160"/>
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:tu_correo@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
-
----
-
-⭐ Always building. Always improving. Always learning.
+📊 Estadísticas de GitHub
+<div align="center"> <img src="https://streak-stats.demolab.com?user=AngelMRH&theme=tokyonight&hide_border=true" height="160"/> </div>
+🤝 Conecta Conmigo
+<div align="center"> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:tu_correo@email.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div>
