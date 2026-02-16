@@ -1,23 +1,23 @@
-🚀 Sobre mí
+Sobre Mí
 
-💻 Estudiante de Ingeniería en Sistemas
+💻 Estudiante de Ingeniería en Sistemas Computacionales
 🗄️ Especialista en SQL Server y Soporte Técnico ERP
 📊 Diseño y Optimización de Bases de Datos
 🔐 Desarrollador de Sistemas de Seguridad Biométrica
 📱 Desarrollador Android y Flutter
-🌐 Desarrollador Web con Next.js y MongoDB
+🌐 Desarrollo Web con Next.js y MongoDB
 
-Me especializo en resolver problemas reales de negocio mediante software, optimización de bases de datos y diseño de sistemas seguros y eficientes.
+Me enfoco en resolver problemas reales de negocio a través de software eficiente, bases de datos optimizadas y sistemas seguros.
 
 🛠️ Stack Tecnológico
 <div align="center"> <img src="https://skillicons.dev/icons?i=js" height="55"/> <img src="https://skillicons.dev/icons?i=ts" height="55"/> <img src="https://skillicons.dev/icons?i=react" height="55"/> <img src="https://skillicons.dev/icons?i=nextjs" height="55"/> <img src="https://skillicons.dev/icons?i=tailwind" height="55"/> <img src="https://skillicons.dev/icons?i=flutter" height="55"/> <img src="https://skillicons.dev/icons?i=java" height="55"/> <img src="https://skillicons.dev/icons?i=kotlin" height="55"/> <img src="https://skillicons.dev/icons?i=python" height="55"/> <img src="https://skillicons.dev/icons?i=mongodb" height="55"/> <img src="https://skillicons.dev/icons?i=mysql" height="55"/> <img src="https://skillicons.dev/icons?i=git" height="55"/> <img src="https://skillicons.dev/icons?i=github" height="55"/> </div>
-🗄️ Experiencia en Bases de Datos y ERP
+🗄️ Especialización en Bases de Datos y ERP
 
-Consultas SQL Avanzadas (CTE, Funciones Window, Procedimientos Almacenados)
+Consultas SQL Avanzadas (CTE, Window Functions, Stored Procedures)
 
 Análisis y Optimización de Rendimiento
 
-Depuración y Soporte de Datos en ERP
+Soporte y Depuración de Datos en ERP
 
 Validación de Integridad de Información
 
@@ -28,8 +28,8 @@ Generación de Reportes y Auditorías
 📱 Proyectos Mobile
 
 🔹 App Android con Control de Música mediante Giroscopio
-🔹 App de Asistencias con Huella Digital
-🔹 Aplicaciones Flutter con almacenamiento local (SharedPreferences)
+🔹 Aplicación de Asistencias con Huella Digital
+🔹 Apps Flutter con almacenamiento local (SharedPreferences)
 🔹 Sistema de Alertas de Emergencia con sincronización de contactos
 
 🌐 Proyectos Web
@@ -37,7 +37,7 @@ Generación de Reportes y Auditorías
 🔹 Sistema de Citas para Departamentos (Next.js + MongoDB)
 🔹 Autenticación basada en Roles
 🔹 APIs REST e Integración con Base de Datos
-🔹 Interfaces Responsivas con Tailwind
+🔹 UI Responsiva con Tailwind
 
 📊 Estadísticas de GitHub
 <div align="center"> <img src="https://streak-stats.demolab.com?user=AngelMRH&theme=tokyonight&hide_border=true" height="160"/> </div>
