@@ -1,71 +1,103 @@
-<h1 align="center">Angel Manuel Ruiz</h1> <p align="center"> Software Developer • SQL Server Specialist • ERP Support • Mobile & Web Developer </p>
-👨‍💻 Sobre mí
+<h1 align="center">Hey 👋 I'm Angel Manuel Ruiz</h1>
+<h3 align="center">
+Software Developer | SQL Server Specialist | ERP Support | Mobile & Web Developer
+</h3>
 
-Soy desarrollador enfocado en resolver problemas empresariales mediante:
+---
 
-Diseño y optimización de bases de datos
+## 🚀 About Me
 
-Automatización de procesos y mantenimiento SQL
+💻 Systems Engineering Student  
+🗄️ SQL Server & ERP Technical Support  
+📊 Database Design & Optimization  
+🔐 Biometric Security Systems Developer  
+📱 Android & Flutter Developer  
+🌐 Next.js & MongoDB  
 
-Desarrollo de sistemas seguros
+I specialize in solving real-world business problems through software, 
+database optimization, and secure system design.
 
-Aplicaciones móviles y web full stack
+---
 
-Actualmente trabajo con bases de datos empresariales y soporte ERP, combinando rendimiento, seguridad y arquitectura limpia.
+## 🛠️ Tech Stack
 
-🧠 Especialización Técnica
+<div align="center">
 
-Bases de Datos
+<img src="https://skillicons.dev/icons?i=js" height="50"/>
+<img src="https://skillicons.dev/icons?i=ts" height="50"/>
+<img src="https://skillicons.dev/icons?i=react" height="50"/>
+<img src="https://skillicons.dev/icons?i=nextjs" height="50"/>
+<img src="https://skillicons.dev/icons?i=tailwind" height="50"/>
+<img src="https://skillicons.dev/icons?i=flutter" height="50"/>
+<img src="https://skillicons.dev/icons?i=java" height="50"/>
+<img src="https://skillicons.dev/icons?i=kotlin" height="50"/>
+<img src="https://skillicons.dev/icons?i=python" height="50"/>
+<img src="https://skillicons.dev/icons?i=mongodb" height="50"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="50"/>
+<img src="https://skillicons.dev/icons?i=git" height="50"/>
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
 
-SQL avanzado (CTE, Window Functions, Stored Procedures)
+</div>
 
-Optimización de rendimiento
+---
 
-Auditoría y validación de integridad
+## 🗄️ Database & ERP Expertise
 
-Automatización de backups
+- Advanced SQL Queries (CTE, Window Functions, Stored Procedures)
+- Database Performance Analysis
+- ERP Data Debugging & Support
+- Data Integrity Validation
+- Backup & Maintenance Automation
+- Report Generation & Data Auditing
 
-Soporte técnico ERP
+---
 
-Desarrollo
+## 📱 Mobile Projects
 
-Aplicaciones Android (Java / Kotlin)
+- Android App with Gyroscope Music Control  
+- Biometric Attendance App (Fingerprint-based)  
+- Flutter Apps with Local Storage (SharedPreferences)  
+- Emergency Alert System with Contact Sync  
 
-Flutter con almacenamiento persistente
+---
 
-Next.js + MongoDB
+## 🌐 Web Projects
 
-APIs REST y autenticación basada en roles
+- Apartment Booking System (Next.js + MongoDB)  
+- Role-based Authentication  
+- REST APIs & Database Integration  
+- Responsive UI with Tailwind  
 
-🛠 Stack Principal
+---
 
-JavaScript • TypeScript • React • Next.js
-Flutter • Java • Kotlin
-SQL Server • MongoDB • MySQL
-Git • GitHub
+## 📊 GitHub Stats
 
-📌 Proyectos Relevantes
+<div align="center">
 
-Sistema de Citas para Departamentos
-Aplicación web con autenticación por roles y base de datos MongoDB.
+<img src="https://github-readme-stats.vercel.app/api?username=AngelMRH&show_icons=true&hide_border=true" height="160"/>
 
-Sistema de Asistencias con Huella Digital
-Aplicación móvil con validación biométrica y generación de reportes.
+<img src="https://streak-stats.demolab.com?user=AngelMRH&hide_border=true" height="160"/>
 
-App Android con Control por Giroscopio
-Control de reproducción musical mediante sensores del dispositivo.
+</div>
 
-Automatización de Backups en SQL Server
-Scripts programados y mantenimiento automatizado a nivel servidor.
+---
 
-📊 GitHub Analytics
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=AngelMRH&show_icons=true&hide_border=true&theme=default"/> <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=AngelMRH&hide_border=true&theme=default"/> </div>
-📈 Lenguajes Más Usados
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelMRH&layout=compact&hide_border=true&theme=default"/> </div>
-📬 Contacto
+## 🤝 Connect With Me
 
-LinkedIn: (agrega tu enlace)
+<div align="center">
 
-Email: tu_correo@email.com
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<p align="center"> <i>Construyendo sistemas eficientes, seguros y escalables.</i> </p>
+<a href="mailto:tu_correo@email.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<p align="center">
+⭐ Always building. Always improving. Always learning.
+</p>
