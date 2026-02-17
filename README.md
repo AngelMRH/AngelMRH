@@ -91,31 +91,6 @@ const techStack = {
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AngelMRH&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelMRH&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=AngelMRH&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AngelMRH&theme=onedark&no-frame=true&margin-w=5&row=2&column=4"/>
-</div>
-
----
-
-# 📈 Actividad Reciente
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AngelMRH&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" width="100%"/>
-</div>
-
----
-
 # 🎯 Proyectos Destacados
 
 | Proyecto | Descripción | Tecnologías |
@@ -124,15 +99,6 @@ const techStack = {
 | 📱 App Biométrica | Control de accesos con huella digital | Kotlin, SQLite |
 | 🌐 Dashboard Analytics | Visualización empresarial | React, Node.js, MongoDB |
 | 🔐 Auth System | Sistema multi-rol empresarial | Next.js, JWT |
-
----
-
-# 🏆 Logros
-
-✅ Optimización SQL mejorando rendimiento en 60%  
-✅ Implementación biométrica para 500+ usuarios  
-✅ Desarrollo de múltiples soluciones empresariales  
-✅ Migración exitosa de bases legacy  
 
 ---
 
