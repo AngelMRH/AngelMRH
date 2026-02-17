@@ -83,7 +83,7 @@ optimización de bases de datos y diseño de sistemas seguros.
 ---
 ---
 
-## 🤝 Conecta Conmigo
+
 
 <div align="center">
 
