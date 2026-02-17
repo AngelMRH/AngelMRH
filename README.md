@@ -149,9 +149,7 @@ const techStack = {
 
 ---
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" />
-</div>
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/footer.svg" width="100%" />
