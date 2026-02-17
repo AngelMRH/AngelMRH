@@ -161,8 +161,6 @@ const techStack = {
 
 <div align="center">
 
-⚡ "Siempre construyendo soluciones. Siempre optimizando. Siempre evolucionando." ⚡  
 
-⭐ Gracias por visitar mi perfil
 
 </div>
