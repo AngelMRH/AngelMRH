@@ -14,53 +14,6 @@
 </div>
 
 ---
-
-# 👨‍💻 Sobre Mí
-
-```javascript
-const angel = {
-  role: "Ingeniero en Sistemas Computacionales",
-  specialization: ["SQL Server", "ERP Support", "Mobile/Web Development"],
-  currentFocus: "Optimización de rendimiento y seguridad empresarial",
-  mindset: "Resolver problemas complejos con soluciones escalables",
-  funFact: "Siempre estoy optimizando algo ☕"
-};
-```
-
----
-
-# 💫 Áreas de Especialización
-
-## 🗄️ SQL Server
-```sql
--- Performance First Mentality
-SELECT expertise.area, expertise.level
-FROM angel_skills
-WHERE passion = 'Database Performance';
-
--- Resultado: 🔥 Nivel Avanzado
-```
-
-## 📱 Mobile Development
-```kotlin
-class AngelDeveloper {
-    val platforms = listOf("Android", "Flutter")
-    val expertise = listOf("Sensores", "Biometría", "Hardware Integration")
-}
-```
-
-## 🌐 Web Development
-```typescript
-const techStack = {
-  frontend: ['Next.js', 'React', 'Tailwind'],
-  backend: ['Node.js', 'MongoDB', 'REST APIs'],
-  auth: ['JWT', 'Role-based Access'],
-  focus: 'Scalable Architecture'
-};
-```
-
----
-
 # 🛠️ Stack Tecnológico
 
 ## 💻 Lenguajes & Frameworks
